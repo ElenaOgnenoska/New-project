@@ -5,6 +5,7 @@ public class Klasa {
         System.out.println("hello");
         sayHello("Elena");
         sayGoodbye("Elena");
+        System.out.println("git gui");
     }
 //Komentar vo edna linija
     /*
